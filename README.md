@@ -11,4 +11,4 @@ This is a simple implementation of Vanilla JS written from ground-up to implemen
 
 You can hover over the bar to expand it
 
-![Here](https://i.imgur.com/Nl73VFG.gifv)
+https://i.imgur.com/Nl73VFG.gifv
